@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.b5f3dabe.css",
-    "main.js": "./static/js/main.8ee1cf45.js",
+    "main.css": "./static/css/main.73e6476e.css",
+    "main.js": "./static/js/main.f9087569.js",
     "static/js/296.f2841f1b.chunk.js": "./static/js/296.f2841f1b.chunk.js",
     "static/css/94.65e43342.chunk.css": "./static/css/94.65e43342.chunk.css",
     "static/js/94.ece1655d.chunk.js": "./static/js/94.ece1655d.chunk.js",
@@ -14,7 +14,7 @@
     "static/css/407.26a477b0.chunk.css": "./static/css/407.26a477b0.chunk.css",
     "static/js/407.8bdc75c5.chunk.js": "./static/js/407.8bdc75c5.chunk.js",
     "static/css/63.d0044e69.chunk.css": "./static/css/63.d0044e69.chunk.css",
-    "static/js/63.c618ff4d.chunk.js": "./static/js/63.c618ff4d.chunk.js",
+    "static/js/63.5c638afc.chunk.js": "./static/js/63.5c638afc.chunk.js",
     "static/css/149.d779a71e.chunk.css": "./static/css/149.d779a71e.chunk.css",
     "static/js/149.9be88ed7.chunk.js": "./static/js/149.9be88ed7.chunk.js",
     "static/css/886.3bd1f824.chunk.css": "./static/css/886.3bd1f824.chunk.css",
@@ -26,7 +26,7 @@
     "static/css/185.c8d01432.chunk.css": "./static/css/185.c8d01432.chunk.css",
     "static/js/185.71a54d94.chunk.js": "./static/js/185.71a54d94.chunk.js",
     "static/css/557.59394633.chunk.css": "./static/css/557.59394633.chunk.css",
-    "static/js/557.1db85d43.chunk.js": "./static/js/557.1db85d43.chunk.js",
+    "static/js/557.e5068df7.chunk.js": "./static/js/557.e5068df7.chunk.js",
     "static/css/765.8882ae96.chunk.css": "./static/css/765.8882ae96.chunk.css",
     "static/js/765.30880a84.chunk.js": "./static/js/765.30880a84.chunk.js",
     "static/css/309.87a72d1c.chunk.css": "./static/css/309.87a72d1c.chunk.css",
@@ -115,8 +115,8 @@
     "static/media/message-circle-svgrepo-com.svg": "./static/media/message-circle-svgrepo-com.4f42280cbbaca5093e67774def3abb53.svg",
     "static/media/notSeen.svg": "./static/media/notSeen.4d0041269bd015ef36b3e9abd21c6e41.svg",
     "static/media/arrow.svg": "./static/media/arrow.24507ab03ea8ee93e5a080265252249d.svg",
-    "main.b5f3dabe.css.map": "./static/css/main.b5f3dabe.css.map",
-    "main.8ee1cf45.js.map": "./static/js/main.8ee1cf45.js.map",
+    "main.73e6476e.css.map": "./static/css/main.73e6476e.css.map",
+    "main.f9087569.js.map": "./static/js/main.f9087569.js.map",
     "296.f2841f1b.chunk.js.map": "./static/js/296.f2841f1b.chunk.js.map",
     "94.65e43342.chunk.css.map": "./static/css/94.65e43342.chunk.css.map",
     "94.ece1655d.chunk.js.map": "./static/js/94.ece1655d.chunk.js.map",
@@ -129,7 +129,7 @@
     "407.26a477b0.chunk.css.map": "./static/css/407.26a477b0.chunk.css.map",
     "407.8bdc75c5.chunk.js.map": "./static/js/407.8bdc75c5.chunk.js.map",
     "63.d0044e69.chunk.css.map": "./static/css/63.d0044e69.chunk.css.map",
-    "63.c618ff4d.chunk.js.map": "./static/js/63.c618ff4d.chunk.js.map",
+    "63.5c638afc.chunk.js.map": "./static/js/63.5c638afc.chunk.js.map",
     "149.d779a71e.chunk.css.map": "./static/css/149.d779a71e.chunk.css.map",
     "149.9be88ed7.chunk.js.map": "./static/js/149.9be88ed7.chunk.js.map",
     "886.3bd1f824.chunk.css.map": "./static/css/886.3bd1f824.chunk.css.map",
@@ -141,7 +141,7 @@
     "185.c8d01432.chunk.css.map": "./static/css/185.c8d01432.chunk.css.map",
     "185.71a54d94.chunk.js.map": "./static/js/185.71a54d94.chunk.js.map",
     "557.59394633.chunk.css.map": "./static/css/557.59394633.chunk.css.map",
-    "557.1db85d43.chunk.js.map": "./static/js/557.1db85d43.chunk.js.map",
+    "557.e5068df7.chunk.js.map": "./static/js/557.e5068df7.chunk.js.map",
     "765.8882ae96.chunk.css.map": "./static/css/765.8882ae96.chunk.css.map",
     "765.30880a84.chunk.js.map": "./static/js/765.30880a84.chunk.js.map",
     "309.87a72d1c.chunk.css.map": "./static/css/309.87a72d1c.chunk.css.map",
@@ -151,7 +151,7 @@
     "863.44158530.chunk.js.map": "./static/js/863.44158530.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5f3dabe.css",
-    "static/js/main.8ee1cf45.js"
+    "static/css/main.73e6476e.css",
+    "static/js/main.f9087569.js"
   ]
 }
